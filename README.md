@@ -7,7 +7,7 @@ Its a Currency Convertor app which uses https://openexchangerates.org/ to get th
 
 You can directly run the project.
 Before running app please put appId in "env.properties" file
-Get you Api key from https://openexchangerates.org/ for free
+Get your free AppID from https://openexchangerates.org/ for free
 
 ### About Azlaan Khan
 Azlaan has been working in the IT industry since last 7 years.
