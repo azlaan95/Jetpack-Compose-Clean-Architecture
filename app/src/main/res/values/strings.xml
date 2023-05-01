@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Convertor App</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="select_currency_label">Currency</string>
+    <string name="insert_currency">Enter Amount Ex. 100.5</string>
+    <string name="insert_currency_label">Amount</string>
+</resources>
